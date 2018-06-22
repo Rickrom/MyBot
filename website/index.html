@@ -7,10 +7,21 @@
     <title>Document</title>
 </head>
 <body>
-    reichbot
-    <div id="queue">
+    <h1>Das Queue</h1>
 
-    </div>
+    <button onclick="playSong()" disabledclear>Play</button>
+    <button onclick="skip()" disabledclear>Skip</button>
+
+    <form id="addSong">
+        <input type="text" name="song" required>
+        <button type="submit">add</button>
+    </form>
+
+    <ul id="queue">
+
+    </ul>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.1/socket.io.dev.js"></script>
     <script src="./index.js"></script>
 </body>
 </html>
