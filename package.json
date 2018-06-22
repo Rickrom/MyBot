@@ -1,0 +1,28 @@
+{
+  "name": "mybot",
+  "version": "1.0.0",
+  "description": "A v10 Discord.JS music bot in 100 lines or less",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discord.js-music-v11": "^1.3.4",
+    "express": "^4.16.3",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "global": "^4.3.2",
+    "node-discordbots": "^2.0.1",
+    "nodemon": "^1.17.2",
+    "opusscript": "0.0.6",
+    "play": "^0.5.0",
+    "youtube-dl": "^1.12.2",
+    "ytdl": "^0.10.1",
+    "ytdl-core": "^0.20.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

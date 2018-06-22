@@ -1,0 +1,14 @@
+
+-------====={The Reich bot Help Program.}====-------
+
+        ---========{Commands}========---
+            Help or reich.help : Get Help for using this bot.
+            !gamecode : GEt a Random Game Code that maby works.
+            !walletcode : Get a Wallet Code that maby works.
+            reich.add {music link}: Adds a music to das reich player.
+            reich.play : lets das reich join your server.
+            reich.pause : pauses the music.
+            reich.resume : resumes the music
+            reich.skip : skip das music
+
+        -------====={Das Ende}=====--------
